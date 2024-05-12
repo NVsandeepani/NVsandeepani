@@ -16,11 +16,10 @@
 
  💬 Ask me about **JAVA, C#, HTML, PHP, MySql**
 
- 📫 How to reach me **sandeepaninv@gmail.com**
  </div>
  
 <div align="center"> 
-    <a href="mailto:sandeepaninv@gmail.com.com">
+    <a href="mailto:sandeepaninv@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
       </a>  
     <a href="https://linkedin.com/in/nvsandeepani" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -35,14 +34,21 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 
-
 <div align="center">
        <img src="https://skillicons.dev/icons?i=flutter,dart,github,python,javascript,firebase,cpp,java" /><br>
        <img src="https://skillicons.dev/icons?i=visualstudio,mysql,html,css,php,bootstrap,vscode,sublime,figma,ps" />
-
 </div>
 
 <br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NVsandeepani/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
