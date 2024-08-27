@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Course Learning App**
 
- 🌱 I’m currently learning **React**
+ 🌱 I’m currently learning **Flutter**
 
  💬 Ask me about **JAVA, C#, HTML, PHP, MySql**
 
