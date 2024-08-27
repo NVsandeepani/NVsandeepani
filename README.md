@@ -14,7 +14,7 @@
 
  🌱 I’m currently learning **Flutter**
 
- 💬 Ask me about **JAVA, C#, HTML, PHP, MySql**
+ 💬 Ask me about **JAVA, C#, HTML, PHP, MySql, Flutter**
 
  </div>
  
