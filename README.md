@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Developing Mobile Application**
+ 🔭 I’m currently working on **EV_FRZONTEND**
 
- 🌱 I’m currently learning **Flutter**
+ 🌱 I’m currently learning **API Intergration**
 
  💬 Ask me about **JAVA, C#, HTML, PHP, MySql, Flutter**
 
