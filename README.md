@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **EV_FRZONTEND**
+ 🔭 I’m currently working on **EV_FRONTEND**
 
  🌱 I’m currently learning **API Intergration**
 
