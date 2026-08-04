@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **REPAIR_IT PROJECT**
 
- 🌱 I’m currently learning **API Intergration**
+ 🌱 I’m currently learning **Clean Code Architecture**
 
  💬 Ask me about **JAVA, C#, HTML, PHP, MySql, Flutter, Dart**
 
